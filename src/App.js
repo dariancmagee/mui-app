@@ -2,7 +2,7 @@ import './App.css';
 import SearchAppBar from "./components/AppBar";
 import Tour from "./pages/Tour";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home.js"
+import Home from "./pages/Home"
 
 function App() {
   return( 
